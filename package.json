@@ -1,0 +1,15 @@
+{
+    "version": "0.0.5",
+    "name": "in.edelworks.sharedpreferences",
+    "cordova_name": "in.edelworks.sharedpreferences",
+    "description": "Phonegap 3 plugin for check or launch other application in android device.",
+    "license": "MIT",
+    "keywords": [
+        "in.edelworks.sharedpreferences"
+    ],
+    "platforms": [
+        "android",
+        "ios"
+    ],
+    "engines": []
+}
